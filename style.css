@@ -219,14 +219,6 @@ button.button3:active {
 .under {
   text-decoration: underline;
 }
-.huge {
-  color: color: #992068;
-  font-size: 400%;
-}
-.big {
-	font-size: 225%;
-	font: Georgia;
-}
 p.text1 {
   font-size: 130%;
   color: #7075FF;
@@ -306,6 +298,22 @@ tr:nth-child(even) {
 
 tr:nth-child(odd) {
     background-color: #D29FFF;
+}
+
+.large {
+  font-size: 125%;
+}
+.big {
+  font-size: 150%;
+}
+.huge {
+  font-size: 175%;
+}
+.giant {
+  font-size: 200%;
+}
+.massive { 
+font-size: 250%; 
 }
 
 /* cyrillic */
