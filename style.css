@@ -24,13 +24,13 @@ li a:hover:not(.active) {
 
 
 .active {
-    background-color: #AE9A65;
+    background-color: #0015ff;
 }
 
 .cent {
     margin: auto;
     width: 50%;
-    border: 7px solid #AE9A65;
+    border: 7px solid #0015ff;
     padding: 10px;
     text-align: center;
   }
@@ -210,6 +210,18 @@ button.button3:active {
 }
 .purple {
   color: #992068;
+}
+.green {
+  color: #114c18;
+}
+.blue {
+  color: #0015ff;
+}
+.lightBlue {
+  color: #00bbff;
+}
+.lightGreen {
+  color: #359932;
 }
 .center {
 	text-align: center;
